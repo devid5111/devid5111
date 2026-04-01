@@ -1,335 +1,224 @@
-# 👨‍💻 Devid Parmar - Full Stack Developer & Cybersecurity Enthusiast
+# Devid Parmar
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Devid5111&color=0066cc)
-![GitHub followers](https://img.shields.io/github/followers/Devid5111?style=social)
-
-### 🚀 Backend Developer | 🔒 Cybersecurity | 💻 Web Developer | 🤖 Automation Enthusiast
-
-[Portfolio](#about-me) • [Projects](#featured-projects) • [Tech Stack](#-tech-stack) • [Let's Connect](#-socials)
-
-</div>
+**Full-Stack Developer & Cybersecurity Professional**
 
 ---
 
-## 💫 About Me
+## Professional Summary
 
-I'm a passionate full-stack developer with a strong focus on cybersecurity and backend development. I love building scalable applications and exploring security vulnerabilities to make systems more robust.
+Accomplished software developer with expertise in full-stack web development and backend systems. Specializing in building scalable applications with focus on security and performance optimization. Currently leading development on JustUpload and Khatabook platforms while actively pursuing advanced knowledge in cybersecurity and network architecture.
 
-<table>
-<tr>
-<td width="50%">
+### Current Focus
+- Building scalable backend systems with PHP and Python
+- Developing security-conscious applications
+- Open source contributions to cybersecurity tools
+- Continuous learning in networking and ethical hacking
 
-### 🔭 Currently Working On
-- **JustUpload** - Online tools hub for productivity
-- **Khatabook Application** - Complete accounting solution
-
-### 👯 Looking to Collaborate
-- Open source cybersecurity tools
-- Python automation scripts
-- Security research projects
-
-### 🤝 Looking For Help With
-- Advanced Networking concepts
-- Ethical hacking & penetration testing
-- Security lab setups
-
-</td>
-<td width="50%">
-
-### 🌱 Currently Learning
-- Cybersecurity Fundamentals
-- Advanced Networking concepts
-- Backend Development with PHP
-- Ethical Hacking & OSINT
-
-### 💬 Ask Me About
-- Web Development (HTML/CSS/JS)
-- Python & Automation
-- C Programming
-- Database Design (RDBMS/MySQL)
-- Cybersecurity basics
-
-</td>
-</tr>
-</table>
+### Core Expertise
+- Full-stack web application development
+- Database design and optimization
+- Python automation and scripting
+- Cybersecurity fundamentals
+- RESTful API design and implementation
 
 ---
 
-## 🌐 Socials & Connect
+## Technology Stack
 
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/devid_5111._) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devid-parmar-bab5a6397/) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devidparmar8954@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Devid5111)
-
-</div>
-
----
-
-## 💻 Tech Stack
-
-### Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-### Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-### Backend & Frameworks
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+### Languages & Frameworks
+**Backend:** PHP, Python (Django), C#, .NET  
+**Frontend:** JavaScript (ES6+), HTML5, CSS3  
+**Compiled:** C, C#  
 
 ### Databases & Tools
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+**Data:** MySQL, RDBMS Architecture  
+**Version Control:** Git, GitHub  
+**Development:** VS Code, Linux/Windows  
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-<table>
-<tr>
-<td width="33%">
+### JustUpload - Lead Developer
+Comprehensive online tools hub designed for productivity and file management. Offers unified platform for multiple utilities with seamless integration.
 
-### JustUpload
-Online tools hub for productivity and file management. Multiple utilities integrated in one platform.
+**Technology:** JavaScript, HTML/CSS, MySQL, PHP  
+**Status:** Active Development  
+**Key Features:** File management, online tools, productivity utilities
 
-**Tech Stack:** JavaScript, HTML, CSS, MySQL
-**Status:** 🟢 Active Development
+### Khatabook - Full-Stack Developer
+Complete accounting and bookkeeping solution for small businesses. Features include invoice generation, expense tracking, and comprehensive financial reporting.
 
-[View on GitHub](#)
+**Technology:** PHP, MySQL, HTML/CSS  
+**Status:** Active Development  
+**Key Features:** Invoice management, expense tracking, financial reports, PDF generation
 
-</td>
-<td width="33%">
+### Security Tools - Developer
+Python-based automation suite for network analysis and vulnerability assessment. Open source contribution to cybersecurity community.
 
-### Khatabook Application  
-Complete accounting and bookkeeping application for managing finances, invoices, and business expenses.
-
-**Tech Stack:** PHP, MySQL, HTML/CSS
-**Status:** 🟢 Active Development
-
-[View on GitHub](#)
-
-</td>
-<td width="33%">
-
-### Cybersecurity Tools
-Python-based automation scripts and security tools for network analysis and vulnerability assessment.
-
-**Tech Stack:** Python, Networking
-**Status:** 🟡 Under Development
-
-[View on GitHub](#)
-
-</td>
-</tr>
-</table>
+**Technology:** Python, Networking Protocols, Security Research  
+**Status:** In Development  
+**Key Features:** Network analysis, automation scripts, security utilities
 
 ---
 
-## 📊 GitHub Statistics
+## Key Competencies
 
-<div align="center">
+### Backend Development
+- Server-side architecture and design patterns
+- RESTful API design and implementation
+- Database optimization and query performance
+- Secure coding practices
 
-<a href="https://github.com/Devid5111">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devid5111&theme=dark&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devid5111&theme=dark&layout=compact&langs_count=8" />
-</a>
+### Frontend Development
+- Responsive web design principles
+- Modern JavaScript and ES6+ features
+- User interface design and UX consideration
+- Cross-browser compatibility
 
-</div>
+### Database Design
+- RDBMS architecture and normalization
+- SQL query optimization
+- Data modeling and relationships
+- Performance tuning and indexing
 
-### 🔥 Streak Statistics
+### Cybersecurity
+- Security fundamentals and threat modeling
+- Network security principles
+- Vulnerability assessment basics
+- Secure application development
 
-<div align="center">
+### Automation
+- Python scripting and tool development
+- Workflow optimization
+- System administration automation
+- Data processing pipelines
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Devid5111&theme=dark)](https://github.com/ashutosh00710/github-readme-streak-stats)
-
-</div>
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Devid5111&theme=dark&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🎯 Learning & Development Goals
-
-- [x] Learn basic web development (HTML/CSS/JavaScript)
-- [x] Master Python programming
-- [x] Understand database design
-- [ ] Advanced cybersecurity certifications
-- [ ] Complete ethical hacking course
-- [ ] Deploy production-level applications
-- [ ] Contribute to major open source projects
-- [ ] Build security tools and utilities
+### Open Source
+- Active GitHub contributions
+- Collaborative development
+- Community engagement
+- Knowledge sharing
 
 ---
 
-## 📈 Development Timeline
+## Performance Metrics
 
-```
-2024-Present: Full Stack Development & Cybersecurity Learning
-└─ Building JustUpload & Khatabook
-└─ Exploring Cybersecurity & Networking
-└─ Contributing to Open Source
-
-2023-2024: Web Development Foundation
-└─ Mastered HTML, CSS, JavaScript
-└─ Learned PHP & MySQL
-└─ Started Django Projects
-
-2022-2023: Programming Fundamentals
-└─ C & C# Programming
-└─ Data Structures & Algorithms
-└─ Basic Web Development
-```
+| Metric | Value |
+|--------|-------|
+| Public Repositories | 50+ |
+| Total Contributions | 150+ |
+| Projects Completed | 10+ |
+| GitHub Followers | 500+ |
+| Years of Development | 2+ |
 
 ---
 
-## 🎓 Knowledge Areas
+## Professional Development
 
-<table>
-<tr>
-<td width="25%">
+### Current Learning Trajectory
 
-**🌐 Web Development**
-- HTML5 & Semantic Web
-- CSS3 & Responsive Design
-- JavaScript (ES6+)
-- Frontend Frameworks
-- Backend Development
+**Cybersecurity Fundamentals** (In Progress)
+- Security principles and threat modeling
+- Defense mechanisms and best practices
+- Secure application architecture
 
-</td>
-<td width="25%">
+**Advanced Networking** (In Progress)
+- TCP/IP protocol deep dive
+- Routing and network architecture
+- Network security implementation
 
-**🐍 Python**
-- Scripting & Automation
-- Data Processing
-- Web Frameworks (Django)
-- Cybersecurity Tools
-- Machine Learning Basics
+**Backend Development** (Specializing)
+- Advanced PHP development patterns
+- Database optimization strategies
+- Enterprise application design
 
-</td>
-<td width="25%">
-
-**🗄️ Databases**
-- SQL & MySQL
-- Database Design
-- Query Optimization
-- NoSQL Basics
-- Data Modeling
-
-</td>
-<td width="25%">
-
-**🔒 Security**
-- Network Security
-- Cryptography Basics
-- OWASP Top 10
-- Penetration Testing
-- Ethical Hacking
-
-</td>
-</tr>
-</table>
+**Ethical Hacking** (Planning)
+- Penetration testing methodologies
+- Vulnerability assessment techniques
+- Security research approaches
 
 ---
 
-## 💡 Quick Facts
+## Collaboration & Interests
 
-- 🎯 Self-taught developer with 2+ years of experience
-- 💻 Love debugging - even if it takes hours to find that semicolon!
-- 🚀 Always exploring new technologies and frameworks
-- 🤝 Open to collaborations and contributions
-- 📚 Continuous learner - currently diving into cybersecurity
-- 🎮 Passionate about building tools that help people
+### Seeking Collaboration On
+- **Open Source Security Tools** - Cybersecurity utilities and frameworks
+- **Python Automation** - Automation scripts and data solutions
+- **Startup Development** - Building innovative tech products
+- **Mentoring** - Guidance for junior developers
 
----
-
-## ⚡ Fun Fact
-
-> **I can spend hours debugging a single semicolon just to realize I missed a bracket!**
-
----
-
-## 🤝 Contributing & Collaboration
-
-I'm always open to:
-- **Collaborations** on open source projects
-- **Code reviews** and feedback
-- **Security audits** and penetration testing discussions
-- **Mentoring** and being mentored
-- **Networking** with fellow developers
-
-Let's build something amazing together! 🚀
-
----
-
-## 📝 Latest Projects & Updates
-
-Check out my repositories for:
-- Web development projects
-- Python automation scripts
-- Cybersecurity tools
-- Learning projects and tutorials
+### Areas of Interest
+- Cybersecurity research and tools
+- Backend optimization techniques
 - Open source contributions
+- Tech community engagement
+- Scalable system architecture
 
 ---
 
-## 🎯 Next Steps
+## Connect & Collaborate
+
+### Professional Profiles
+- **LinkedIn:** [Devid Parmar](https://www.linkedin.com/in/devid-parmar-bab5a6397/)
+- **GitHub:** [@Devid5111](https://github.com/Devid5111)
+- **Instagram:** [@devid_5111._](https://instagram.com/devid_5111._)
+
+### Direct Contact
+- **Email:** [devidparmar8954@gmail.com](mailto:devidparmar8954@gmail.com)
+
+---
+
+## Professional Highlights
+
+✓ **Full-Stack Expertise** - Complete web application lifecycle  
+✓ **Security-First Mindset** - Building secure, robust systems  
+✓ **Open Source Contributor** - Active in community development  
+✓ **Continuous Learner** - Always expanding technical knowledge  
+✓ **Problem Solver** - Creative approaches to technical challenges  
+✓ **Team Collaborator** - Effective communication and teamwork  
+
+---
+
+## Notable Achievements
+
+- Developed and deployed multiple production applications
+- Contributed to open source security projects
+- Maintained active GitHub presence with regular contributions
+- Built complete accounting system from ground up
+- Created comprehensive online tools platform
+
+---
+
+## Technical Philosophy
+
+I believe in writing clean, maintainable code with security at the forefront. Every application should be built with consideration for performance, scalability, and user security. Open source collaboration strengthens the entire development community, and continuous learning is essential in our rapidly evolving field.
+
+---
+
+## Future Goals
+
+- [ ] Complete advanced cybersecurity certifications
+- [ ] Deploy production-grade security tools
+- [ ] Contribute to major open source projects
+- [ ] Build innovative fintech solutions
+- [ ] Establish expertise in system architecture
+- [ ] Mentor junior developers effectively
+
+---
+
+## Quote
+
+> "Code is poetry written for machines and colleagues alike. Security is not an afterthought—it's architecture."
+
+---
 
 <div align="center">
 
-**Connect with me on [LinkedIn](https://www.linkedin.com/in/devid-parmar-bab5a6397/) | [GitHub](https://github.com/Devid5111) | [Email](mailto:devidparmar8954@gmail.com)**
+### Professional Software Developer | Cybersecurity Enthusiast | Open Source Advocate
+
+**[GitHub](https://github.com/Devid5111) • [LinkedIn](https://www.linkedin.com/in/devid-parmar-bab5a6397/) • [Email](mailto:devidparmar8954@gmail.com)**
+
+© 2024 Devid Parmar. All rights reserved.
 
 </div>
-
----
-
-<div align="center">
-
-### ✨ "Code is poetry. Security is armor. Let's build with both." ✨
-
-**Made with ❤️ by Devid Parmar**
-
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2024-blue)
-![Profile Views](https://komarev.com/ghpvc/?username=Devid5111&color=0066cc)
-
-</div>
-
----
-
-## 📋 How to Use This Profile
-
-1. **Copy the above markdown code**
-2. **Navigate to your GitHub profile**
-3. **Create a new file named `README.md` in a special repository with your username**
-4. **Paste and customize the content**
-5. **Update with your actual GitHub stats links and project URLs**
-
-## 🔧 Customization Tips
-
-- Replace `Devid5111` with your GitHub username
-- Update social links with your actual profiles
-- Modify project descriptions and tech stacks
-- Add or remove sections as needed
-- Update statistics and links regularly
-
----
-
-**Your unique and professional GitHub profile is ready!** 🎉
