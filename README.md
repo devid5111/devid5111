@@ -1,224 +1,30 @@
-# Devid Parmar
-
-**Full-Stack Developer & Cybersecurity Professional**
-
+# 💫 About Me:
+- 🔭 **I’m currently working on:** Developing **JustUpload** (online tools hub) and a **Khatabook** application.
+- 👯 **I’m looking to collaborate on:** Open source cybersecurity tools or Python-based automation scripts.
+- 🤝 **I’m looking for help with:** Advanced Networking concepts and ethical hacking labs.
+- 🌱 **I’m currently learning:** Cybersecurity Fundamentals, Networking, and Backend development with PHP.
+- 💬 **Ask me about:** Web Development (HTML/CSS/JS), Python, C Programming, and RDBMS.
+- ⚡ **Fun fact:** I can spend hours debugging a single semicolon just to realize I missed a bracket!
 ---
-
-## Professional Summary
-
-Accomplished software developer with expertise in full-stack web development and backend systems. Specializing in building scalable applications with focus on security and performance optimization. Currently leading development on JustUpload and Khatabook platforms while actively pursuing advanced knowledge in cybersecurity and network architecture.
-
-### Current Focus
-- Building scalable backend systems with PHP and Python
-- Developing security-conscious applications
-- Open source contributions to cybersecurity tools
-- Continuous learning in networking and ethical hacking
-
-### Core Expertise
-- Full-stack web application development
-- Database design and optimization
-- Python automation and scripting
-- Cybersecurity fundamentals
-- RESTful API design and implementation
-
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/devid_5111._) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devid-parmar-bab5a6397/) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devidparmar8954@gmail.com)
 ---
-
-## Technology Stack
-
-### Languages & Frameworks
-**Backend:** PHP, Python (Django), C#, .NET  
-**Frontend:** JavaScript (ES6+), HTML5, CSS3  
-**Compiled:** C, C#  
-
-### Databases & Tools
-**Data:** MySQL, RDBMS Architecture  
-**Version Control:** Git, GitHub  
-**Development:** VS Code, Linux/Windows  
-
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ---
-
-## Featured Projects
-
-### JustUpload - Lead Developer
-Comprehensive online tools hub designed for productivity and file management. Offers unified platform for multiple utilities with seamless integration.
-
-**Technology:** JavaScript, HTML/CSS, MySQL, PHP  
-**Status:** Active Development  
-**Key Features:** File management, online tools, productivity utilities
-
-### Khatabook - Full-Stack Developer
-Complete accounting and bookkeeping solution for small businesses. Features include invoice generation, expense tracking, and comprehensive financial reporting.
-
-**Technology:** PHP, MySQL, HTML/CSS  
-**Status:** Active Development  
-**Key Features:** Invoice management, expense tracking, financial reports, PDF generation
-
-### Security Tools - Developer
-Python-based automation suite for network analysis and vulnerability assessment. Open source contribution to cybersecurity community.
-
-**Technology:** Python, Networking Protocols, Security Research  
-**Status:** In Development  
-**Key Features:** Network analysis, automation scripts, security utilities
-
+# 📊 GitHub Stats:
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Devid5111&theme=dark&show_icons=true" alt="Devid's GitHub Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devid5111&theme=dark&layout=compact" alt="Top Languages" height="150" />
+</p>
+### 🔥 Streak Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=Devid5111&theme=dark)
+## 🏆 GitHub Trophies:
+![](https://github-profile-trophy.vercel.app/?username=Devid5111&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ---
-
-## Key Competencies
-
-### Backend Development
-- Server-side architecture and design patterns
-- RESTful API design and implementation
-- Database optimization and query performance
-- Secure coding practices
-
-### Frontend Development
-- Responsive web design principles
-- Modern JavaScript and ES6+ features
-- User interface design and UX consideration
-- Cross-browser compatibility
-
-### Database Design
-- RDBMS architecture and normalization
-- SQL query optimization
-- Data modeling and relationships
-- Performance tuning and indexing
-
-### Cybersecurity
-- Security fundamentals and threat modeling
-- Network security principles
-- Vulnerability assessment basics
-- Secure application development
-
-### Automation
-- Python scripting and tool development
-- Workflow optimization
-- System administration automation
-- Data processing pipelines
-
-### Open Source
-- Active GitHub contributions
-- Collaborative development
-- Community engagement
-- Knowledge sharing
-
----
-
-## Performance Metrics
-
-| Metric | Value |
-|--------|-------|
-| Public Repositories | 50+ |
-| Total Contributions | 150+ |
-| Projects Completed | 10+ |
-| GitHub Followers | 500+ |
-| Years of Development | 2+ |
-
----
-
-## Professional Development
-
-### Current Learning Trajectory
-
-**Cybersecurity Fundamentals** (In Progress)
-- Security principles and threat modeling
-- Defense mechanisms and best practices
-- Secure application architecture
-
-**Advanced Networking** (In Progress)
-- TCP/IP protocol deep dive
-- Routing and network architecture
-- Network security implementation
-
-**Backend Development** (Specializing)
-- Advanced PHP development patterns
-- Database optimization strategies
-- Enterprise application design
-
-**Ethical Hacking** (Planning)
-- Penetration testing methodologies
-- Vulnerability assessment techniques
-- Security research approaches
-
----
-
-## Collaboration & Interests
-
-### Seeking Collaboration On
-- **Open Source Security Tools** - Cybersecurity utilities and frameworks
-- **Python Automation** - Automation scripts and data solutions
-- **Startup Development** - Building innovative tech products
-- **Mentoring** - Guidance for junior developers
-
-### Areas of Interest
-- Cybersecurity research and tools
-- Backend optimization techniques
-- Open source contributions
-- Tech community engagement
-- Scalable system architecture
-
----
-
-## Connect & Collaborate
-
-### Professional Profiles
-- **LinkedIn:** [Devid Parmar](https://www.linkedin.com/in/devid-parmar-bab5a6397/)
-- **GitHub:** [@Devid5111](https://github.com/Devid5111)
-- **Instagram:** [@devid_5111._](https://instagram.com/devid_5111._)
-
-### Direct Contact
-- **Email:** [devidparmar8954@gmail.com](mailto:devidparmar8954@gmail.com)
-
----
-
-## Professional Highlights
-
-✓ **Full-Stack Expertise** - Complete web application lifecycle  
-✓ **Security-First Mindset** - Building secure, robust systems  
-✓ **Open Source Contributor** - Active in community development  
-✓ **Continuous Learner** - Always expanding technical knowledge  
-✓ **Problem Solver** - Creative approaches to technical challenges  
-✓ **Team Collaborator** - Effective communication and teamwork  
-
----
-
-## Notable Achievements
-
-- Developed and deployed multiple production applications
-- Contributed to open source security projects
-- Maintained active GitHub presence with regular contributions
-- Built complete accounting system from ground up
-- Created comprehensive online tools platform
-
----
-
-## Technical Philosophy
-
-I believe in writing clean, maintainable code with security at the forefront. Every application should be built with consideration for performance, scalability, and user security. Open source collaboration strengthens the entire development community, and continuous learning is essential in our rapidly evolving field.
-
----
-
-## Future Goals
-
-- [ ] Complete advanced cybersecurity certifications
-- [ ] Deploy production-grade security tools
-- [ ] Contribute to major open source projects
-- [ ] Build innovative fintech solutions
-- [ ] Establish expertise in system architecture
-- [ ] Mentor junior developers effectively
-
----
-
-## Quote
-
-> "Code is poetry written for machines and colleagues alike. Security is not an afterthought—it's architecture."
-
----
-
-<div align="center">
-
-### Professional Software Developer | Cybersecurity Enthusiast | Open Source Advocate
-
-**[GitHub](https://github.com/Devid5111) • [LinkedIn](https://www.linkedin.com/in/devid-parmar-bab5a6397/) • [Email](mailto:devidparmar8954@gmail.com)**
-
-© 2024 Devid Parmar. All rights reserved.
-
-</div>
+<p align="center">
+  <b>Profile Views:</b><br>
+  <img src="https://visitcount.itsvg.in/api?id=Devid5111&icon=0&color=0" />
+</p>
