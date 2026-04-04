@@ -1,84 +1,84 @@
-<h1 align="center">Hi 👋, I'm Devid Parmar</h1>
-<h3 align="center">🚀 Web Developer | Cybersecurity Learner | Backend Enthusiast</h3>
+<h1 align="center">👋 Hey Everyone, I'm Devid</h1>
+<h3 align="center">💻 Web Developer | 🔐 Cybersecurity Learner | ⚙️ Backend Enthusiast</h3>
 
 ---
 
-## 💫 About Me
-- 🔭 Currently building **JustUpload (Online Tools Hub)** & **Khatabook App**
-- 👯 Open to collaborating on **Cybersecurity tools & Python automation**
-- 🤝 Looking for help in **Advanced Networking & Ethical Hacking Labs**
-- 🌱 Learning **Cybersecurity, Networking & Backend (PHP)**
-- 💬 Ask me about **HTML, CSS, JavaScript, Python, C, RDBMS**
-- ⚡ Fun fact: Debugging one semicolon can take hours 😄
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Welcome+to+My+GitHub+Universe!;Building+Projects+Everyday;Learning+Cybersecurity+%F0%9F%94%90;Always+Improving+%F0%9F%9A%80" />
+</p>
+
+---
+
+## 🚀 About Me
+- 🔭 Building **JustUpload** & **Khatabook App**
+- 🌱 Learning **Cybersecurity + Networking + PHP Backend**
+- 👯 Collaborating on **Python Automation & Security Tools**
+- 💬 Ask me about **Web Dev, Python, C, DBMS**
+- ⚡ Debugging > Sleeping 😄
 
 ---
 
 ## 🌐 Connect With Me
-<p align="left">
-  <a href="https://instagram.com/devid_5111._" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<p align="center">
+  <a href="https://instagram.com/devid_5111._">
+    <img src="https://img.shields.io/badge/Instagram-ff0066?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/devid-parmar-bab5a6397/" target="_blank">
+  <a href="https://www.linkedin.com/in/devid-parmar-bab5a6397/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:devidparmar8954@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 💻 Tech Stack
-
-### 👨‍💻 Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-### ⚙️ Backend & Frameworks
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devid5111&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devid5111&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Devid5111&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devid5111&theme=tokyonight" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devid5111&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
 
-## 🔥 Streak Stats
+## 📈 Contribution Graph
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devid5111&theme=tokyonight"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devid5111&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cs,python,html,css,js,php,django,mysql,dotnet"/>
+
 </p>
 
 ---
 
 ## 🏆 Achievements
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Devid5111&theme=tokyonight&no-frame=true&margin-w=10"/>
 </p>
 
 ---
 
-## 📈 Profile Views
+## 👀 Profile Views
+
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Devid5111&icon=5&color=6"/>
 </p>
 
 ---
 
-## 💡 Quote
-> “First, solve the problem. Then, write the code.” – John Johnson
+## 💡 Developer Quote
+> "First solve the problem, then write the code."
