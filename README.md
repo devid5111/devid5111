@@ -1,336 +1,58 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=👋+Hey%2C+I'm+Devid+Parmar" alt="Typing SVG" />
-</h1>
-
-<div align="center">
-  
-  ### 💻 Full Stack Web Developer | 🐍 Python Developer | 🔐 Cybersecurity Enthusiast
-  
-  ![Visitors](https://komarev.com/ghpvc/?username=Devid5111&style=flat-square&color=00f7ff)
-  ![Profile Stars](https://img.shields.io/github/stars/Devid5111?style=flat-square&color=00f7ff)
-  
-</div>
-
+<h1 align="center">👋 Hey Everyone, I'm Devid</h1>
+<h3 align="center">💻 Web Developer | 🔐 Cybersecurity Learner | ⚙️ Backend Enthusiast</h3>
 ---
-
-<div align="center">
-  
-  ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&height=60&lines=🚀+Building+Scalable+Web+Applications;🐍+Crafting+Python+Magic;🔐+Learning+Cybersecurity;⚙️+Backend+Architecture+Master;🌐+Full+Stack+Solutions)
-  
-</div>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Welcome+to+My+GitHub+Universe!;Building+Projects+Everyday;Learning+Cybersecurity+%F0%9F%94%90;Always+Improving+%F0%9F%9A%80" />
+</p>
 ---
-
-## 🎯 About Me
-
-<div align="center">
-
-I'm a passionate **Full Stack Developer** and **Python Enthusiast** from India, dedicated to building scalable, efficient, and secure applications. I thrive on solving complex problems and continuously improving my technical skills.
-
-</div>
-
+## 🚀 About Me
+- 🔭 Building **JustUpload** & **Khatabook App**
+- 🌱 Learning **Cybersecurity + Networking + PHP Backend**
+- 👯 Collaborating on **Python Automation & Security Tools**
+- 💬 Ask me about **Web Dev, Python, C, DBMS**
+- ⚡ Debugging > Sleeping 😄
 ---
-
-### 🚀 What I Do
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-#### 🔭 Currently Building
-- 📦 **JustUpload** - File Management Platform
-- 📱 **Khatabook App** - Business Management Tool  
-- 🛡️ **Security Tools** - Python Automation
-- 🌐 **Full Stack Web Apps**
-
-</td>
-<td align="center" width="50%">
-
-#### 🌱 Always Learning
-- 🔐 Cybersecurity & Ethical Hacking
-- 🌐 Network Security & Protocols
-- 📚 System Design & Architecture
-- 🐍 Advanced Python Patterns
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-### 💬 Skills & Expertise
-
-<div align="center">
-
-| 🌐 Frontend | 🔧 Backend | 💾 Database | 🛡️ Security |
-|:---:|:---:|:---:|:---:|
-| HTML5 | Python | MySQL | Best Practices |
-| CSS3 | Django | MongoDB | Secure Coding |
-| JavaScript | PHP | SQL | Cybersecurity |
-| Bootstrap | C/C# | Data Design | Web Security |
-
-</div>
-
----
-
-### ⚡ Fun Facts
-
-<div align="center">
-
-- 💻 I debug code more than I sleep! 😄
-- 🎯 Problem solver at heart
-- 📚 Lifelong learner
-- 🤝 Open to collaborations
-- 🚀 Passionate about building solutions
-
-</div>
-
----
-
 ## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devid-parmar-bab5a6397/)
-[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/devid_5111._)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="0f6b6a79666b7f6e7d626e7d37363a3b4f68626e6663216c6062">[email&#160;protected]</a>)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Devid5111)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devid5111)
-
-</div>
-
+<p align="center">
+  <a href="https://instagram.com/devid_5111._">
+    <img src="https://img.shields.io/badge/Instagram-ff0066?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/devid-parmar-bab5a6397/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:devidparmar8954@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 ---
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-### 📈 My Performance Metrics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devid5111&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=00f7ff&title_color=00f7ff&icon_color=00f7ff&ring_color=00f7ff)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Devid5111&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7ff&fire=00f7ff&currStreakNum=00f7ff)
-
-</div>
-
-<div align="center">
-
-### 🔝 Top Languages & Technologies
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devid5111&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=00f7ff&title_color=00f7ff)
-
-</div>
-
+## 📊 GitHub Dashboard
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Devid5111&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devid5111&theme=tokyonight" height="150"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devid5111&layout=compact&theme=tokyonight" height="150"/>
+</p>
 ---
-
-## 📊 Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Devid5111&theme=tokyo-night&hide_border=true&bg_color=0d1117&line=00f7ff&point=ffd700&area_color=001f3f&custom_title=Devid's%20Contribution%20Graph)](https://github.com/Devid5111)
-
-</div>
-
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devid5111&theme=tokyo-night"/>
+</p>
 ---
-
-## 🛠️ Tech Stack & Skills
-
-### 🎨 Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive%20Design-FF6B6B?style=for-the-badge)
-
-### 🔧 Backend Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-
-### 💾 Databases & Data
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### ⚙️ Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
+## 🛠 Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cs,python,html,css,js,php,django,mysql,dotnet"/>
+</p>
 ---
-
-## 🏆 Achievements & Trophies
-
-<div align="center">
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Devid5111&theme=tokyonight&no-frame=true&margin-w=15&column=4&row=1)
-
-</div>
-
-### 🎖️ Key Milestones
-- ✅ Active Developer - Consistent Contributions
-- ⭐ Problem Solver - Real-World Solutions  
-- 📚 Tech Enthusiast - Always Learning
-- 🔒 Security Focused - Cybersecurity Advocate
-
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Devid5111&theme=tokyonight&no-frame=true&margin-w=10"/>
+</p>
 ---
-
-## 📱 Featured Projects
-
-<table align="center">
-<tr>
-<th>Project</th>
-<th>Description</th>
-<th>Tech Stack</th>
-<th>Status</th>
-</tr>
-<tr>
-<td><b>JustUpload</b></td>
-<td>File Management & Storage Platform</td>
-<td>Python, Django, MySQL, JS</td>
-<td>🚀 Active</td>
-</tr>
-<tr>
-<td><b>Khatabook App</b></td>
-<td>Business Account Management System</td>
-<td>Django, React, MySQL</td>
-<td>🚀 Active</td>
-</tr>
-<tr>
-<td><b>Python Automation</b></td>
-<td>Security Tools & Task Automation</td>
-<td>Python, Bash</td>
-<td>🔄 Developing</td>
-</tr>
-<tr>
-<td><b>Web Scraper</b></td>
-<td>Data Extraction & Analysis Tool</td>
-<td>Python, BeautifulSoup</td>
-<td>✅ Complete</td>
-</tr>
-</table>
-
+## 👀 Profile Views
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Devid5111&icon=5&color=6"/>
+</p>
 ---
-
-## 💡 Developer Philosophy
-
-<div align="center">
-
-> ### "First solve the problem, then write the code."
-> 
-> *Code is poetry written in logic, and comments are its meaning.*
-
-</div>
-
----
-
-## 🎯 Future Roadmap
-
-```
-2024-2025:
-├── 🎓 Master Full Stack Architecture
-├── 🔐 Advanced Cybersecurity Certification
-├── 📖 Technical Blog & Content
-├── 🌐 SaaS Product Development
-└── 🤝 Open Source Contributions
-```
-
----
-
-## 📈 Quick Stats
-
-<div align="center">
-
-| Metric | Value |
-|--------|-------|
-| **Total Repositories** | 20+ |
-| **Years Coding** | 3+ |
-| **Languages Known** | 8+ |
-| **Projects Completed** | 15+ |
-| **Current Focus** | Full Stack & Security |
-
-</div>
-
----
-
-## 🚀 Latest Activity
-
-<div align="center">
-
-- 🔨 Currently working on JustUpload v2.0
-- 📚 Learning Advanced Cybersecurity
-- 💬 Open to collaborations & freelance projects
-- 🌱 Contributing to open source
-
-</div>
-
----
-
-## 💼 Let's Work Together!
-
-<div align="center">
-
-I'm open to:
-- **Freelance Projects** - Web Development & Python
-- **Collaborations** - Full Stack & Security Tools
-- **Internships** - Backend & Cybersecurity roles
-- **Mentoring** - Helping junior developers
-
-📧 **Email:** <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="375352415e534756455a56450f0e020377505a565e5b1954585a">[email&#160;protected]</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ✨ Portfolio Highlights
-
-**Languages:** Python 🐍 | JavaScript 📜 | C 🔧 | PHP 💻 | SQL 📊
-
-**Specialties:** Full Stack Development • Backend Architecture • Database Design • Python Automation • Security Best Practices
-
-</div>
-
----
-
-<div align="center">
-
-### 🌟 If you like what I do, feel free to follow! ⭐
-
-</div>
-
----
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/Made%20with%20❤️%20by%20Devid%20Parmar-00f7ff?style=flat-square" />
-</td>
-</tr>
-<tr>
-<td align="center">
-<sub>Last Updated: 2024 | Building the Future 🚀</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 📞 Quick Links
-
-<div align="center">
-
-[🔗 GitHub](https://github.com/Devid5111) • [💼 LinkedIn](https://www.linkedin.com/in/devid-parmar-bab5a6397/)
+## 💡 Developer Quote
+> "First solve the problem, then write the code."
