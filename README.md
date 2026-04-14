@@ -77,7 +77,6 @@ class DevJourney:
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/devid_5111._)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devidparmar8954@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Devid5111)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devid5111)
 
 </div>
 
@@ -172,14 +171,14 @@ class DevJourney:
 </tr>
 <tr>
 <td><b>JustUpload</b></td>
-<td>File Management & Storage Platform</td>
-<td>Python, Django, MySQL, JS</td>
+<td> 10+ Tools </td>
+<td>Python, Flask , MySQL, JS</td>
 <td>🚀 Active</td>
 </tr>
 <tr>
 <td><b>Khatabook App</b></td>
 <td>Business Account Management System</td>
-<td>Django, React, MySQL</td>
+<td> JSOn ,php, MySQL</td>
 <td>🚀 Active</td>
 </tr>
 <tr>
@@ -210,17 +209,6 @@ class DevJourney:
 
 ---
 
-## 🎯 Future Roadmap
-
-```
-2024-2025:
-├── 🎓 Master Full Stack Architecture
-├── 🔐 Advanced Cybersecurity Certification
-├── 📖 Technical Blog & Content
-├── 🌐 SaaS Product Development
-└── 🤝 Open Source Contributions
-```
-
 ---
 
 ## 📈 Quick Stats
@@ -239,18 +227,6 @@ class DevJourney:
 
 ---
 
-## 🚀 Latest Activity
-
-<div align="center">
-
-- 🔨 Currently working on JustUpload v2.0
-- 📚 Learning Advanced Cybersecurity
-- 💬 Open to collaborations & freelance projects
-- 🌱 Contributing to open source
-
-</div>
-
----
 
 ## 💼 Let's Work Together!
 
