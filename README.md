@@ -20,50 +20,86 @@
 </div>
 
 ---
- 
+
 ## 🎯 About Me
- 
+
 <div align="center">
- 
+
 I'm a passionate **Full Stack Developer** and **Python Enthusiast** from India, dedicated to building scalable, efficient, and secure applications. I thrive on solving complex problems and continuously improving my technical skills.
- 
+
 </div>
- 
+
 ---
- 
-### 💻 My Profile
- 
+
+### 🚀 What I Do
+
 <div align="center">
- 
-```python
-class DevJourney:
-    def __init__(self):
-        self.name = "Devid Parmar"
-        self.role = "Full Stack Developer"
-        self.location = "Ahmedabad, Gujarat 🇮🇳"
-        
-    def specialization(self):
-        return ["Web Development", "Backend Systems", "Python Automation"]
-    
-    def currently_learning(self):
-        return ["Cybersecurity", "Network Security", "System Design"]
-    
-    def passion(self):
-        return "Building scalable & secure solutions 🚀"
- 
-dev = DevJourney()
-```
- 
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+#### 🔭 Currently Building
+- 📦 **JustUpload** - File Management Platform
+- 📱 **Khatabook App** - Business Management Tool  
+- 🛡️ **Security Tools** - Python Automation
+- 🌐 **Full Stack Web Apps**
+
+</td>
+<td align="center" width="50%">
+
+#### 🌱 Always Learning
+- 🔐 Cybersecurity & Ethical Hacking
+- 🌐 Network Security & Protocols
+- 📚 System Design & Architecture
+- 🐍 Advanced Python Patterns
+
+</td>
+</tr>
+</table>
+
 </div>
- 
+
+---
+
+### 💬 Skills & Expertise
+
+<div align="center">
+
+| 🌐 Frontend | 🔧 Backend | 💾 Database | 🛡️ Security |
+|:---:|:---:|:---:|:---:|
+| HTML5 | Python | MySQL | Best Practices |
+| CSS3 | Django | MongoDB | Secure Coding |
+| JavaScript | PHP | SQL | Cybersecurity |
+| Bootstrap | C/C# | Data Design | Web Security |
+
+</div>
+
+---
+
+### ⚡ Fun Facts
+
+<div align="center">
+
+- 💻 I debug code more than I sleep! 😄
+- 🎯 Problem solver at heart
+- 📚 Lifelong learner
+- 🤝 Open to collaborations
+- 🚀 Passionate about building solutions
+
+</div>
+
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devid-parmar-bab5a6397/)
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/devid_5111._)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devidparmar8954@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="0f6b6a79666b7f6e7d626e7d37363a3b4f68626e6663216c6062">[email&#160;protected]</a>)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Devid5111)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devid5111)
 
 </div>
 
@@ -91,10 +127,13 @@ dev = DevJourney()
 
 ---
 
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devid5111&theme=tokyo-night"/>
-</p>
+## 📊 Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Devid5111&theme=tokyo-night&hide_border=true&bg_color=0d1117&line=00f7ff&point=ffd700&area_color=001f3f&custom_title=Devid's%20Contribution%20Graph)](https://github.com/Devid5111)
+
+</div>
 
 ---
 
@@ -155,14 +194,14 @@ dev = DevJourney()
 </tr>
 <tr>
 <td><b>JustUpload</b></td>
-<td> 10+ Tools </td>
-<td>Python, Flask , MySQL, JS</td>
+<td>File Management & Storage Platform</td>
+<td>Python, Django, MySQL, JS</td>
 <td>🚀 Active</td>
 </tr>
 <tr>
 <td><b>Khatabook App</b></td>
 <td>Business Account Management System</td>
-<td> JSOn ,php, MySQL</td>
+<td>Django, React, MySQL</td>
 <td>🚀 Active</td>
 </tr>
 <tr>
@@ -193,6 +232,17 @@ dev = DevJourney()
 
 ---
 
+## 🎯 Future Roadmap
+
+```
+2024-2025:
+├── 🎓 Master Full Stack Architecture
+├── 🔐 Advanced Cybersecurity Certification
+├── 📖 Technical Blog & Content
+├── 🌐 SaaS Product Development
+└── 🤝 Open Source Contributions
+```
+
 ---
 
 ## 📈 Quick Stats
@@ -211,6 +261,18 @@ dev = DevJourney()
 
 ---
 
+## 🚀 Latest Activity
+
+<div align="center">
+
+- 🔨 Currently working on JustUpload v2.0
+- 📚 Learning Advanced Cybersecurity
+- 💬 Open to collaborations & freelance projects
+- 🌱 Contributing to open source
+
+</div>
+
+---
 
 ## 💼 Let's Work Together!
 
@@ -222,7 +284,7 @@ I'm open to:
 - **Internships** - Backend & Cybersecurity roles
 - **Mentoring** - Helping junior developers
 
-📧 **Email:** devidparmar8954@gmail.com
+📧 **Email:** <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="375352415e534756455a56450f0e020377505a565e5b1954585a">[email&#160;protected]</a>
 
 </div>
 
@@ -271,16 +333,4 @@ I'm open to:
 
 <div align="center">
 
-[🔗 GitHub](https://github.com/Devid5111) • [💼 LinkedIn](https://www.linkedin.com/in/devid-parmar-bab5a6397/) • [📧 Email](mailto:devidparmar8954@gmail.com) • [📸 Instagram](https://instagram.com/devid_5111._)
-
-</div>
-
----
-
-<div align="center">
-
-### Let's build something amazing together! 🚀
-
-*Give this repository a ⭐ if you found it helpful!*
-
-</div>
+[🔗 GitHub](https://github.com/Devid5111) • [💼 LinkedIn](https://www.linkedin.com/in/devid-parmar-bab5a6397/)
