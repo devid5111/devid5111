@@ -20,55 +20,42 @@
 </div>
 
 ---
-
+ 
 ## 🎯 About Me
-
-<table align="center">
-<tr>
-<td>
-
+ 
+<div align="center">
+ 
+I'm a passionate **Full Stack Developer** and **Python Enthusiast** from India, dedicated to building scalable, efficient, and secure applications. I thrive on solving complex problems and continuously improving my technical skills.
+ 
+</div>
+ 
+---
+ 
+### 💻 My Profile
+ 
+<div align="center">
+ 
 ```python
 class DevJourney:
     def __init__(self):
         self.name = "Devid Parmar"
         self.role = "Full Stack Developer"
-        self.specialization = ["Web Dev", "Python", "Backend"]
-        self.learning = ["Cybersecurity", "Networking"]
-        self.passion = "Building scalable solutions 🚀"
+        self.location = "Ahmedabad, Gujarat 🇮🇳"
         
-    def current_focus(self):
-        return ["JustUpload", "Khatabook App", "Security Tools"]
+    def specialization(self):
+        return ["Web Development", "Backend Systems", "Python Automation"]
     
-    def skill_set(self):
-        return self.expertise + self.growth_areas
+    def currently_learning(self):
+        return ["Cybersecurity", "Network Security", "System Design"]
+    
+    def passion(self):
+        return "Building scalable & secure solutions 🚀"
+ 
+dev = DevJourney()
 ```
-
-</td>
-<td>
-
-🔭 **Currently Building:**
-- JustUpload - File Management Platform
-- Khatabook App - Business Management Tool
-- Python Automation & Security Tools
-
-🌱 **Constantly Learning:**
-- Advanced Cybersecurity & Ethical Hacking
-- Network Security & Protocols  
-- System Design & Architecture
-
-💬 **Ask me about:**
-- Web Development & Full Stack
-- Python Programming
-- Database Design
-- API Development
-- Security Best Practices
-
-</td>
-</tr>
-</table>
-
----
-
+ 
+</div>
+ 
 ## 🌐 Connect With Me
 
 <div align="center">
