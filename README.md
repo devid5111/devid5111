@@ -104,13 +104,10 @@ class DevJourney:
 
 ---
 
-## 📊 Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Devid5111&theme=tokyo-night&hide_border=true&bg_color=0d1117&line=00f7ff&point=ffd700&area_color=001f3f&custom_title=Devid's%20Contribution%20Graph)](https://github.com/Devid5111)
-
-</div>
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devid5111&theme=tokyo-night"/>
+</p>
 
 ---
 
