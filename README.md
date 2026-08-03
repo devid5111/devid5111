@@ -7,11 +7,11 @@
 
 ### 👨‍💻 About Me
 
-I am a 4th-semester BCA student with a strong foundation in full-stack development and database management. While I enjoy building functional web applications, my ultimate career goal is to specialize in Cybersecurity. Currently, I am expanding my knowledge in networking and system design to bridge the gap between software development and network security.
+I am a BCA student with a strong foundation in full-stack development and database management. While I enjoy building functional applications and automation tools, my ultimate career goal is to specialize in Cybersecurity. Currently, I am focused on mastering object-oriented programming, networking, and core security fundamentals.
 
-* **🔭 Currently working on:** JustUpload (File Management) & Khatabook App (Business Management)
-* **🌱 Currently learning:** Advanced Networking, System Design, and Security Fundamentals
-* **💬 Ask me about:** Python, PHP, Database Design, and Web Development
+* **🔭 Currently working on:** Building security automation scripts and exploring advanced networking.
+* **🌱 Currently learning:** Java, C#, Network Security, and System Design.
+* **💬 Ask me about:** Python, PHP, Database Design, and Web Development.
 * **📫 How to reach me:** devidparmar8954@gmail.com
 
 ---
@@ -20,7 +20,7 @@ I am a 4th-semester BCA student with a strong foundation in full-stack developme
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,html,css,js,python,php,mysql,bootstrap,django,git,github,linux,docker,vscode&perline=10&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=c,java,cs,html,css,js,python,php,mysql,bootstrap,django,git,github,linux,docker,vscode&perline=9&theme=dark" alt="My Skills" />
   </a>
 </div>
 
@@ -30,9 +30,9 @@ I am a 4th-semester BCA student with a strong foundation in full-stack developme
 
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **📁 JustUpload** | File Management & Storage Platform | Python, Flask, MySQL, JS | 🟢 Active |
-| **📒 Khatabook App** | Business Account Management System | PHP, JSON, MySQL | 🟢 Active |
-| **🤖 Python Automation**| Security Tools & Task Automation | Python, Bash | 🟡 Developing |
+| **📁 JustUpload** | File Management & Storage Platform | Python, Flask, MySQL, JS | 🔵 Complete |
+| **📒 Khatabook App** | Business Account Management System | PHP, JSON, MySQL | 🔵 Complete |
+| **🤖 Python Automation**| Security Tools & Task Automation | Python, Bash | 🟢 Active |
 | **🕷️ Web Scraper** | Data Extraction & Analysis Tool | Python, BeautifulSoup | 🔵 Complete |
 
 ---
