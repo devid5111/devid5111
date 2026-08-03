@@ -1,8 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00f7ff&height=200&section=header&text=Devid%20Parmar&fontSize=60&fontColor=ffffff&animation=fadeIn" alt="Header Banner" />
-</div>
-
-<div align="center">
+  <h1>👋 Hello, I'm Devid Parmar!</h1>
+  <p><b>BCA Student | Full Stack Developer | Cybersecurity Enthusiast</b></p>
+  <br/>
   <a href="https://github.com/Devid5111">
     <img src="https://komarev.com/ghpvc/?username=Devid5111&style=for-the-badge&color=00f7ff&label=PROFILE+VIEWS" alt="Profile Views" />
   </a>
@@ -12,7 +11,6 @@
 </div>
 
 <br/>
-
 ---
 
 ### 👨‍💻 About Me
